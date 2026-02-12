@@ -1,2 +1,2 @@
 # PROGNUM-repo
-very cool repository
+even cooler repository
